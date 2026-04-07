@@ -1,8 +1,7 @@
 {
+  "lang": "prql",
   "url": "https://github.com/PRQL/tree-sitter-prql",
   "semver": false,
-  "min_version": null,
-  "lang": "prql",
-  "location": null,
-  "max_version": null
+  "parser_version": "09e158cd3650581c0af4c49c2e5b10c4834c8646",
+  "location": null
 }
